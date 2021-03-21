@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/crate.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/crate2_Main.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/crate2_Norm.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/HWLesson3.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/Lesson2.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/Lesson3.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/Lesson4.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/Lesson5.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/Lesson6.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/PostProcessing.fx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/2k_moon.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/clouds.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/cube.obj</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/day.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/night.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/sky_cube.dds</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Models/uv_sphere.fbx</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/clouds.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/day.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/night.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet0.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet1.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet2.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet3.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet4.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet5.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Planet6.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/sun.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Lesson3Textures/Universe.dds</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/NormalMap.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/SpecularMap.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/dirt_diff.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/grass.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/HeightMap.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/HeightMap2.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/Plant.png</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/rock.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/snow.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/streetlamp.obj</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/water.jpg</File>
+    <File>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/TerrainResources/waterNormal.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

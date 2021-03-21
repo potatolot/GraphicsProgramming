@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "grqW+HMU6kwcB6mvMAKx4A4Z6b06HxD84swUvrguol+sWuvleRe3xp48vIT0QX7wMpG6DND+zJj10jiDbOu8Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LNdeJ\\Documents\\HKU\\JAAR2\\BlockC\\GraphicsProgramming\\Opdracht1\\Game1\\Game1\\Game1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LNdeJ\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\LNdeJ\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

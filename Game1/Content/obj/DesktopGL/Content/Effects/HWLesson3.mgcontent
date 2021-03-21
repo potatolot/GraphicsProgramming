@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/Effects/HWLesson3.fx</SourceFile>
+  <SourceTime>2021-03-21T13:24:21.7927401+01:00</SourceTime>
+  <DestFile>C:/Users/LNdeJ/Documents/HKU/JAAR2/BlockC/GraphicsProgramming/Opdracht1/Game1/Game1/Content/bin/DesktopGL/Content/Effects/HWLesson3.xnb</DestFile>
+  <DestTime>2021-03-21T13:24:49.4596155+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
